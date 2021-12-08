@@ -1,0 +1,3 @@
+Application\Program.class
+Model\entities\Account.class
+Model\exception\DomainException.class
